@@ -1,0 +1,46 @@
+/* Base layout */
+body {
+  font-family: Arial, sans-serif;
+  margin: 150px;
+  background-color: #f5f5f5;
+  color: #333;
+}
+
+/* Navigation */
+nav a {
+  color: #007acc;
+  text-decoration: none;
+  margin: 0 5px;
+}
+nav a:hover {
+  text-decoration: underline;
+}
+
+/* Headings */
+h1 {
+  color: #2b3a67;
+  font-size: 2em;
+}
+h2 {
+  color: #4b5da8;
+  font-size: 1.5em;
+}
+
+/* Images */
+img {
+  border-radius: 10px;
+  margin: 10px 0;
+}
+
+/* Footer */
+footer {
+  margin-top: 40px;
+  font-size: 0.9em;
+  color: #555;
+}
+
+/* Custom layout tweaks */
+p, ul {
+  line-height: 2.0;
+
+}
