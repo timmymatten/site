@@ -10,7 +10,6 @@ body {
 nav a {
   color: #007acc;
   text-decoration: none;
-  margin: 0 5px;
 }
 nav a:hover {
   text-decoration: underline;
