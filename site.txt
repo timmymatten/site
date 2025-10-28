@@ -1,0 +1,14 @@
+https://timmymatten.github.io/site/
+
+The style.css fyle contains several styling changes
+
+First, I change the font of the body along with the margin, text color, and backgriound color.
+
+Next, the navigation portion handle the links to each of the different pages. 
+This allows the buttons to be a different color than the rest of the text and to be underlined only when hovering
+
+Next, the headings are a different color, bolded, and a different size than the body.
+
+The images are edited to be an appropriate size and to have rounded corners for aesthetic
+
+Finally, I change the footer margins to look nice and change the list and p text to have double line spacing.
